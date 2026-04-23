@@ -70,8 +70,8 @@ Each leg is sized at 35% of portfolio value, so gross exposure is ~70% with roug
 Edit the top of `main.py`:
 
 ```python
-TICKER_A = "V"
-TICKER_B = "MA"
+TICKER_A = "IONQ"
+TICKER_B = "RGTI"
 YEAR = 2025
 ```
 
